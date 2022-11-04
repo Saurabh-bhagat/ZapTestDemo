@@ -1,0 +1,10 @@
+#name: Rayzon
+#on: [push]
+#jobs:
+#  build:
+  #  runs-on: ubuntu-latest
+  #  steps:     
+   # - name: OWASP ZAP Baseline Scan
+    #  uses: zaproxy/action-baseline@v0.6.1
+     # with:
+       # target: "https://demo.testfire.net"
